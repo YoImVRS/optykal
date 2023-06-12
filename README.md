@@ -29,3 +29,25 @@ node script.js --target <URL> --time <seconds>
 Replace <URL> with the target URL to which you want to send the requests. Replace <seconds> with the number of seconds for which the requests will be sent.
 
 ## Example
+
+   Suppose you want to test the URL https://www.example.com for 60 seconds. The command to run would be:
+   
+   ```shell
+   node script.js --target https://www.example.com --time 60
+   ```
+   
+## License
+
+This script is distributed under the MIT License. Before using it, make sure to read and understand the terms of the MIT License. You can find a copy of the license in the `LICENSE` file in this repository.
+
+Please note that this script is provided as is, without any warranties or conditions. The use of this script is solely at the user's own risk. No liability is accepted for any inappropriate or unlawful use of the script.
+
+## Contributions
+
+This script is open source, and contributions from the community are appreciated. If you use this script in your project, it is appreciated to acknowledge its origin and the individuals who have contributed to it. However, specific copyright statements are not required, as it is distributed under the MIT License.
+
+Enjoy using this optykal URL testing script!
+
+---
+
+*Note: This script is provided for educational and testing purposes only. Make sure to use it in accordance with the applicable laws and regulations in your jurisdiction. The use of this script for illegal or malicious activities is not recommended or endorsed.*
