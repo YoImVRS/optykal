@@ -36,6 +36,9 @@ Replace <URL> with the target URL to which you want to send the requests. Replac
    node script.js --target https://www.example.com --time 60
    ```
    
+   ![image](https://github.com/ottersek/optykal/assets/121310374/18d532d0-e20a-42aa-a959-926d55fd07cd)
+
+   
 ## License
 
 This script is distributed under the MIT License. Before using it, make sure to read and understand the terms of the MIT License. You can find a copy of the license in the `LICENSE` file in this repository.
