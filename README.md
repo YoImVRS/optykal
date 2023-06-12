@@ -27,3 +27,5 @@ Once you have prepared the `agents.optykal` file, you can run the script using t
 node script.js --target <URL> --time <seconds>
 ```
 Replace <URL> with the target URL to which you want to send the requests. Replace <seconds> with the number of seconds for which the requests will be sent.
+
+## Example
