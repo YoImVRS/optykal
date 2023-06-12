@@ -24,7 +24,7 @@ The script uses the `axios` library to make HTTP requests. Before running the sc
 Once you have prepared the `agents.optykal` file, you can run the script using the following command:
 
 ```shell
-node script.js --target <URL> --time <seconds>
+node index.js --target <URL> --time <seconds>
 ```
 Replace <URL> with the target URL to which you want to send the requests. Replace <seconds> with the number of seconds for which the requests will be sent.
 
@@ -33,7 +33,7 @@ Replace <URL> with the target URL to which you want to send the requests. Replac
    Suppose you want to test the URL https://www.example.com for 60 seconds. The command to run would be:
    
    ```shell
-   node script.js --target https://www.example.com --time 60
+   node index.js --target https://www.example.com --time 60
    ```
    
    ![image](https://github.com/ottersek/optykal/assets/121310374/18d532d0-e20a-42aa-a959-926d55fd07cd)
